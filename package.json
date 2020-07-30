@@ -1,6 +1,6 @@
 {
     "name": "fcc-heat-map",
-    "homepage": "https://peeblesbrandon.github.io/fcc-heap-map",
+    "homepage": "https://peeblesbrandon.github.io/fcc-choropleth-map",
     "version": "0.1.0",
     "private": true,
     "dependencies": {},
